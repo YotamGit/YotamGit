@@ -33,8 +33,7 @@ Diligent, independent and highly motivated Full Stack Developer with several yea
                   
 <p align="left"> <a href="https://www.github.com/YotamGit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/golan-yotam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<!--
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/YotamGit"><img src="https://github-readme-stats.vercel.app/api?username=YotamGit&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="YotamGit's GitHub stats" /></a>
--->
+
